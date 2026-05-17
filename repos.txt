@@ -1,0 +1,13 @@
+# samples
+
+https://github.com/Fz96tw/NIST-Azure-Terraform
+
+https://github.com/Fz96tw/azure-vnet-template
+
+https://github.com/Fz96tw/jira-code-agent
+
+https://github.com/Fz96tw/entropyscan
+
+
+https://github.com/Fz96tw/proxmoxtf
+
