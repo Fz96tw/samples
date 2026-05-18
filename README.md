@@ -1,8 +1,11 @@
-# Code Samples
+# Nadeem Haider's Sample Projects
+A collection of a few projects spanning cloud infrastructure, security automation, AI agent systems, and systems programming.
 
-A curated collection of projects spanning cloud infrastructure, security automation, AI agent systems, and systems programming.
-
----
+These projects cover topics such as:
+1. Provisioning Infrastructure-as-code on Azure and on-prem Hypervisors
+2. Securing cloud resoures
+3. Tool for malware detection
+4. and AI Agent harness for autonomous code generation.
 
 ## Projects
 
